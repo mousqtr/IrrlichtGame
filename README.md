@@ -5,7 +5,7 @@ The aim of this project is to create a mini-game in C++ using the real-time 3D e
 ## Linux
 ### Clone the project
 ```
-clone https://github.com/mousqtr/WebcamGames.git
+git clone https://github.com/mousqtr/WebcamGames.git
 ```
 
 ### Compilation
