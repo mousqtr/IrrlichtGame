@@ -21,6 +21,6 @@ make
 
 ## Preview
 
-<img src="/resources/images/image1.png?raw=true" alt="image1" style="width: 100px;"/>
+<img src="/resources/images/image1.png?raw=true" alt="image1" style="width: 400px;"/>
 
-<img src="/resources/images/image2.png?raw=true" alt="image2" style="width: 100px;"/>
+<img src="/resources/images/image2.png?raw=true" alt="image2" style="width: 400px;"/>
